@@ -1,4 +1,4 @@
-name: Basic-function-pipeline
+name: basic-function-pipeline
 
 on:
   push:
